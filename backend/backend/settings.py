@@ -41,7 +41,8 @@ BASE_APPS = [
 
 LOCAL_APPS = [
    "app.notas",
-   "app.usuarios"
+   "app.usuarios",
+   # "app.login"
    ]
 
 THIRD_APPS = [
